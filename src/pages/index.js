@@ -26,7 +26,6 @@ const IndexPage = () => (
       Den <a href="javascript:showMailingPopUp()">Newsletter</a> kannst Du abbonieren,
       wenige Male im Jahr eine Übersicht über die Projekte der bioPunk.kitchen
       zu erhalten.
-
     </div>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
