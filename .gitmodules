@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:bioPunkKitchen/bioPunkKitchen.github.io.git
-	branch = origin/master
