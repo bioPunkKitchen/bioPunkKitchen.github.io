@@ -94,6 +94,6 @@ Die Wasserkefir-Wartung ist erreichbar unter `https://git.io/fx74W`.
 
 
 [bioPunk.kitchen]: http://biopunk.kitchen/
-[source]: https://github.com/bioPunkKitchen.github.io/blob/master/src/markdown/wartung.md
+[source]: https://github.com/bioPunkKitchen/bioPunkKitchen.github.io/blob/gatsby/src/markdown/wartung.md
 [nicco]: https://niccokunzmann.github.io/impressum
 [wasserkefir]: https://www.wasserkefir.info/public/wasserkefir.pdf
