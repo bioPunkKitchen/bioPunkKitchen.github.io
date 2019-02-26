@@ -218,7 +218,7 @@ img {
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
-  margin-bottom: 1.45rem;
+  /*margin-bottom: 1.45rem;*/
 }
 h1 {
   margin-left: 0;
@@ -621,12 +621,21 @@ pre tt:after {
   }
 }
 
+/* calendar and map iframes */
+
 iframe {
   border: 1px;
   border-style: solid;
   width: 100%;
+}
+
+.map iframe {
   height: 300px;
 }
+.calendar iframe {
+  height: 400px;
+}
+
 
 /* Newsletter button */
 #open-popup {
@@ -642,8 +651,9 @@ iframe {
   background-position: 100% 30%;
   transition: all 3s;
   text-decoration: none;
-  padding: 0.5 em;
-
+  padding: 0.8em;
+  padding-right: 0em;
+  padding-left: 0.8em;
 }
 #open-popup span{
   display: inline-block;
@@ -671,4 +681,15 @@ iframe {
   .buttonWrapper{
     height: 60px;
   }
+}
+
+/* footer and header */
+
+footer {
+  padding: 1em;
+  color: white;
+}
+
+footer a {
+  color: white;
 }
