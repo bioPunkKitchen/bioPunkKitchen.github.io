@@ -1,3 +1,7 @@
+## Veraltet. Nutze das hier: https://github.com/bioPunkKitchen/biopunk.kitchen
+
+---
+
 bioPunk.Kitchen
 ===============
 
